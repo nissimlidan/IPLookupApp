@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IPCountryInfo" max_length="40" name="x_598934_iplookups_ipcountryinfo" type="collection">
+        <element display="true" label="Country" max_length="40" name="country" type="string"/>
+        <element label="IP Address" max_length="40" name="ip_address" type="string"/>
+    </element>
+</database>
