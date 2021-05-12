@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="IPAddressInfo" language="en" table="x_598934_iplookups_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>IPAddressInfo</label>
+            <language>en</language>
+            <name>x_598934_iplookups_ipaddressinfo</name>
+            <plural>IPAddressInfos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>lidanN</sys_created_by>
+            <sys_created_on>2021-05-10 15:11:39</sys_created_on>
+            <sys_id>747df3d92fc0301076aed8492799b676</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IPAddressInfo</sys_name>
+            <sys_package display_value="IPLookup" source="x_598934_iplookups">541b1bd12f80301076aed8492799b6fd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">541b1bd12f80301076aed8492799b6fd</sys_scope>
+            <sys_update_name>sys_documentation_x_598934_iplookups_ipaddressinfo__en</sys_update_name>
+            <sys_updated_by>lidanN</sys_updated_by>
+            <sys_updated_on>2021-05-10 15:11:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
